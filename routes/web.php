@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Este es un comentario de Edgar Degante
+
 Route::get('/', function () {
     return view('welcome');
 });
